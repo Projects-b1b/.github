@@ -1,1 +1,1 @@
-Projects for group b1b of the study Computer Science at Avans University of Applied Sciences
+Projects for the b1b group of the study Computer Science at Avans University of Applied Sciences
